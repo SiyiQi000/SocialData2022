@@ -1,1 +1,6 @@
-id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+timestamp;status_code;length;output_file
+2022-08-04 16:44:47;200;334499;D:\my github\SocialData2022
+2022-08-04 16:44:48;200;332151;D:\my github\SocialData2022
+2022-08-04 16:44:50;200;331778;D:\my github\SocialData2022
+2022-08-04 16:44:51;200;329256;D:\my github\SocialData2022
+2022-08-04 16:44:52;200;331390;D:\my github\SocialData2022
